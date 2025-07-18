@@ -4,7 +4,7 @@ version: 1.0.1
 homepage: https://github.com/PraveenGongada/wallpaper_manager_flutter
 
 environment:
-  sdk: ^3.7.2
+  sdk: ^3.7.0
   flutter: '>=3.3.0'
 
 dependencies:
